@@ -1,0 +1,6 @@
+print("-----Biodata Mahasiswa-----")
+print("Nama : Wisnu Dewasyah Putra")
+print("NIM : 04119032")
+print("Prodi : Sistem Komputer / A")
+print("Alamat : Perum. Gading Kirana E/10")
+print("No. Hp : 085156976207")
